@@ -1,7 +1,7 @@
 # Medicarosuel  - Utra Hacks 2024 
 Shashank Ojha , ......
 
-Logo and prototype picture and real product picture....
+**Portable voice-activated surgical assistant to address surgical delays, staff shortages, and infection risks, in all public hospitals and in the front line.**
 
 # Table of Contents
 - [Introduction](#introduction)
