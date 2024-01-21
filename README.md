@@ -56,7 +56,6 @@ In summary, the incorporation of computer vision technology in surgical environm
 
 ## Software and Hardware Specifications
 ![alt text](https://github.com/aghassel/utrahacks/blob/main/images/Build.jpg?raw=True)
-![alt text](https://github.com/aghassel/utrahacks/blob/main/images/AI%20concept.png?raw=True)
 
 ### Hardware Spec Prototype
 
