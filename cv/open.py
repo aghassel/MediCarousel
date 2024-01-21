@@ -84,7 +84,6 @@ while True:
 audio_stream.close()
 pa.terminate()
 
-# Record and transcribe audio
 record_audio(duration=2, filename="output.wav")
 transcription = transcribe_audio("output.wav")
 print(transcription)

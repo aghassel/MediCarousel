@@ -6,7 +6,7 @@ import numpy as np
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 
-server_ip = "0.0.0.0"  # Listen on all interfaces
+server_ip = "0.0.0.0"
 server_port = 6666
 s.bind((server_ip, server_port))
 
