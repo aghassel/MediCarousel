@@ -1,4 +1,4 @@
-# Medicarosuel  - Utra Hacks 2024 
+# MediCarousel  - Utra Hacks 2024 
 Shashank Ojha, Cameron Smith, Abdellah Ghassel, Aryan Billah, Shawn Choudhury, Zied Ghoir
 
 # Table of Contents
@@ -18,11 +18,11 @@ Shashank Ojha, Cameron Smith, Abdellah Ghassel, Aryan Billah, Shawn Choudhury, Z
 - [Conclusion and Future Outlook](#conclusion-and-future-outlook)
 
 ## Introduction
-Medicarasouel is a portable voice-activated surgical assistant to address surgical delays, staff shortages, and infection risks, in all public hospitals and in the front line.
+MediCarousel is a portable voice-activated surgical assistant to address surgical delays, staff shortages, and infection risks, in all public hospitals and the front line.
 
 ## Problem Statement
 
-The global challenges in healthcare take on a new level of urgency. The escalating demand for healthcare services worldwide has already stretched the capacity of public health services, with 90% reporting being overwhelmed. In places like Ontario, the underutilization of hospitals due to staffing shortages, particularly among nurses, highlights the widespread nature of these challenges. Additionally, the rise in surgical delays and the alarming rate of post-surgical infections, as indicated by the WHO's report of 11% in low- to middle-income countries, underlining the need for improvement in surgical procedures and hospital efficiency.
+The global challenges in healthcare take on a new level of urgency. The escalating demand for healthcare services worldwide has already stretched the capacity of public health services, with 90% reporting being overwhelmed. In places like Ontario, the underutilization of hospitals due to staffing shortages, particularly among nurses, highlights the widespread nature of these challenges. Additionally, the rise in surgical delays and the alarming rate of post-surgical infections, as indicated by the WHO's report of 11% in low- to middle-income countries, underline the need for improvement in surgical procedures and hospital efficiency.
 
 However, these issues become even more critical in the war-torn regions of Ukraine. The main problem that needs urgent attention is the provision of sterile tools and automated assistance in surgeries on the front lines. In an environment where healthcare facilities are severely damaged or destroyed, as seen with nearly one in ten Ukrainian hospitals impacted, the ability to perform safe and effective surgeries is severely compromised. The goal is to ensure that medical practitioners in these conflict zones have access to sterile surgical tools and automated systems to aid in procedures, a necessity for addressing the immediate and pressing healthcare needs in these areas. This approach not only addresses the unique challenges posed by the war but also sets a precedent for handling similar crises in healthcare globally.
 
@@ -44,13 +44,13 @@ Moreover, the use of voice commands in surgery fosters a more streamlined and or
 ### Advances in Computer Vision for Surgical Safety
 Furthermore, vision contributes significantly to the organization of surgical instruments. By automatically identifying and cataloging each tool, computer vision aids in maintaining an orderly and efficient operating room. Research indicates that this level of organization can decrease the time spent on instrument preparation and handling by up to 30%, thereby reducing overall surgical time (Williams & Patel, 2024).
 
-In summary, the incorporation of computer vision technology in surgical environments significantly bolsters surgical safety. 
+In summary, incorporating computer vision technology in surgical environments significantly bolsters surgical safety. 
 
 ## Competitor Analysis
-To help the public get the best treatment they can, MediCarousal hopes to pioneer and lead a new change in the medical industry by merging the available technology in the fields of robotics and AI. Currently, many of the competitors offer a variety of robot-assisted surgical systems, assisting the surgeon in certain surgeries depending on the product type, like the Da Vinci Surgical System, used in general laparoscopic surgery. However, the majority of these systems are not only very large in size, requiring a lot of space, but also have costs ranging upwards from five hundred thousand to 2.5 million dollars, excluding the cost of operating and maintaining the system alone. This will become a huge limiting factor for many public service hospitals, especially those in third-world countries, who may not be able to afford the costs of buying and maintaining these systems. On the other hand, MediCarausol is not only considerably less expensive than these systems, it is also much easier to maintain, troubleshoot, and transport, which will make it much more accessible to all the healthcare institutions in the world, including third-world countries.
+To help the public get the best treatment they can, MediCarousal hopes to pioneer and lead a new change in the medical industry by merging the available technology in the fields of robotics and AI. Currently, many competitors offer a variety of robot-assisted surgical systems, assisting the surgeon in certain surgeries depending on the product type, like the Da Vinci Surgical System, used in general laparoscopic surgery. However, the majority of these systems are not only vast in size, requiring a lot of space, but also have costs ranging upwards from five hundred thousand to 2.5 million dollars, excluding the cost of operating and maintaining the system alone. This will become a huge limiting factor for many public service hospitals, especially those in third-world countries, who may not be able to afford the costs of buying and maintaining these systems. On the other hand, MediCarausol is not only considerably less expensive than these systems, it is also much easier to maintain, troubleshoot, and transport, which will make it much more accessible to all the healthcare institutions in the world, including third-world countries.
 
 ### Logistics & Scalability
-After presenting the project in the hackathon, using the feedback from the judges, we will test and integrate new changes and improvements, before creating the first prototype using 3D printing. After various tests of different prototype models, we will approach medical professionals to discuss the results of the prototype. After multiple meetings, discussions and in-lab trials, we will create the final model, having integrated all the feedback and improvements from the professionals and results of the trials. This model will be delivered to various healthcare institutes and places in need through a frontline delivery and begin being executed throughout various sites, leading into international hospital implementation and execution. The expected time frame would be from January 2024 to September 2024, but may change based on further trial and testing.
+After presenting the project in the hackathon, using the feedback from the judges, we will test and integrate new changes and improvements, before creating the prototype using 3D printing. After various tests of different prototype models, we will approach medical professionals to discuss the results of the prototype. After multiple meetings, discussions and in-lab trials, we will create the final model, having integrated all the feedback and improvements from the professionals and the results of the trials. This model will be delivered to various healthcare institutes and places in need through a frontline delivery and begin being executed throughout various sites, leading to international hospital implementation and execution. The expected time frame would be from January 2024 to September 2024 but may change based on further trial and testing.
 
 ## Software and Hardware Specifications
 ![alt text](https://github.com/aghassel/utrahacks/blob/main/images/Build.jpg?raw=True)
@@ -62,7 +62,7 @@ DC Motor
 Motor driver
 Battery
 Raspberry Pi 4b + Camera
-Carboard Structural Mounts
+Cardboard Structural Mounts
 
 ### Hardware Spec Real-life
 ![alt text](https://github.com/aghassel/utrahacks/blob/main/images/CAD_1.png?raw=True)
