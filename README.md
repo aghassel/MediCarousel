@@ -57,10 +57,10 @@ In summary, the incorporation of computer vision technology in surgical environm
 
 ## Software and Hardware Specifications
 
-### Hardware spec prototype
+### Hardware Spec Prototype
 ### Hardware Spec Real life
 ### Software Spec Product
-### Software Spec - Real Life
+### Software Spec Real Life
 
 
 ## Conclusion and Future Outlook
