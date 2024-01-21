@@ -60,6 +60,10 @@ In summary, the incorporation of computer vision technology in surgical environm
 ### Hardware Spec Prototype
 
 ### Hardware Spec Real-life
+![alt text](https://github.com/aghassel/utrahacks/blob/main/images/CAD_1.jpg?raw=True)
+![alt text](https://github.com/aghassel/utrahacks/blob/main/images/CAD_2.jpg?raw=True)
+![alt text](https://github.com/aghassel/utrahacks/blob/main/images/CAD_3.jpg?raw=True)
+
 The theoretical design would consist of several mechanisms to optimize mechanical efficiency and ensure sterility. This entire mechanism would fit in a 12 cubic inch volume.
 
 **Steam Sterilizer**: 
