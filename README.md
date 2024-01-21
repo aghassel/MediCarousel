@@ -49,15 +49,22 @@ Furthermore, vision contributes significantly to the organization of surgical in
 In summary, the incorporation of computer vision technology in surgical environments significantly bolsters surgical safety. 
 
 ## Competitor Analysis
-[Couple sentences on competitors out there and what they do …]
+To help the public get the best treatment they can, MediCarousal hopes to pioneer and lead a new change in the medical industry by merging the available technology in the fields of robotics and AI. Currently, many of the competitors offer a variety of robot-assisted surgical systems, assisting the surgeon in certain surgeries depending on the product type, like the Da Vinci Surgical System, used in general laparoscopic surgery. However, the majority of these systems are not only very large in size, requiring a lot of space, but also have costs ranging upwards from five hundred thousand to 2.5 million dollars, excluding the cost of operating and maintaining the system alone. This will become a huge limiting factor for many public service hospitals, especially those in third-world countries, who may not be able to afford the costs of buying and maintaining these systems. On the other hand, MediCarausol is not only considerably less expensive than these systems, it is also much easier to maintain, troubleshoot, and transport, which will make it much more accessible to all the healthcare institutions in the world, including third-world countries.
 
 ### Logistics & Scalability
-[Couple sentences on logistics to bring this to life, business plan etc..]
+After presenting the project in the hackathon, using the feedback from the judges, we will test and integrate new changes and improvements, before creating the first prototype using 3D printing. After various tests of different prototype models, we will approach medical professionals to discuss the results of the prototype. After multiple meetings, discussions and in-lab trials, we will create the final model, having integrated all the feedback and improvements from the professionals and results of the trials. This model will be delivered to various healthcare institutes and places in need through a frontline delivery and begin being executed throughout various sites, leading into international hospital implementation and execution. The expected time frame would be from January 2024 to September 2024, but may change based on further trial and testing.
 
 ## Software and Hardware Specifications
 ![alt text](https://github.com/aghassel/utrahacks/blob/main/images/Build.jpg?raw=True)
 
 ### Hardware Spec Prototype
+Arduino Uno
+IR Sensor
+DC Motor
+Motor driver
+Battery
+Raspberry Pi 4b + Camera
+Carboard Structural Mounts
 
 ### Hardware Spec Real-life
 ![alt text](https://github.com/aghassel/utrahacks/blob/main/images/CAD_1.png?raw=True)
@@ -84,8 +91,6 @@ A wake word was created using picovoice through their porcupine API. After the w
 
 **Computer Vision**:
 After capturing the image and transferring it to a laptop server, the image is passed into the GPT-Vision API. The output is passed into Whisper for text-to-speech functionality, outputting audio instructions.
-
-### Software Spec Real Life
 
 
 ## Conclusion and Future Outlook
