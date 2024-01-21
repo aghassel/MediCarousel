@@ -24,7 +24,7 @@ Medicarasouel is....
 
 ## Problem Statement
 
-In the context of the ongoing Ukraine conflict, the global challenges in healthcare take on a new level of urgency. The escalating demand for healthcare services worldwide has already stretched the capacity of public health services, with 90% reporting being overwhelmed, especially in developing countries. In places like Ontario, the underutilization of hospitals due to staffing shortages, particularly among nurses, highlights the widespread nature of these challenges. Additionally, the rise in surgical delays and the alarming rate of post-surgical infections, as indicated by the WHO's report of 11% in low- to middle-income countries, underline the need for improvement in surgical procedures and hospital efficiency.
+The global challenges in healthcare take on a new level of urgency. The escalating demand for healthcare services worldwide has already stretched the capacity of public health services, with 90% reporting being overwhelmed. In places like Ontario, the underutilization of hospitals due to staffing shortages, particularly among nurses, highlights the widespread nature of these challenges. Additionally, the rise in surgical delays and the alarming rate of post-surgical infections, as indicated by the WHO's report of 11% in low- to middle-income countries, underlining the need for improvement in surgical procedures and hospital efficiency.
 
 However, these issues become even more critical in the war-torn regions of Ukraine. The main problem that needs urgent attention is the provision of sterile tools and automated assistance in surgeries on the front lines. In an environment where healthcare facilities are severely damaged or destroyed, as seen with nearly one in ten Ukrainian hospitals impacted, the ability to perform safe and effective surgeries is severely compromised. The goal is to ensure that medical practitioners in these conflict zones have access to sterile surgical tools and automated systems to aid in procedures, a necessity for addressing the immediate and pressing healthcare needs in these areas. This approach not only addresses the unique challenges posed by the war but also sets a precedent for handling similar crises in healthcare globally.
 
@@ -58,7 +58,7 @@ In summary, the incorporation of computer vision technology in surgical environm
 
 ### Hardware Spec Prototype
 
-### Hardware Spec Real life
+### Hardware Spec Real-life
 The theoretical design would consist of several mechanisms to optimize mechanical efficiency and ensure sterility. This entire mechanism would fit in a 12 cubic inch volume.
 
 **Steam Sterilizer**: 
@@ -78,7 +78,7 @@ The adjustable plate is a movable plate that contains all items of the device.
 A wake word was created using picovoice through their porcupine API. After the wake word is detected, the following few seconds of audio are recorded, inputting the recording into the Whisper through the OpenAI API for transcription. This output is passed into the device to determine the rotation.
 
 **Computer Vision**:
-After capturing the image and transferring it to a the laptop server, the image is passed into the GPT-Vision API. The output is passed into Whisper for text-to-speech functionality, outputting audio instructions.
+After capturing the image and transferring it to a laptop server, the image is passed into the GPT-Vision API. The output is passed into Whisper for text-to-speech functionality, outputting audio instructions.
 
 ### Software Spec Real Life
 
