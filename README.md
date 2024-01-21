@@ -44,12 +44,12 @@ Studies have shown the reduction in physical contact with instruments during sur
 
 Moreover, the use of voice commands in surgery fosters a more streamlined and organized operating room. The ability to instantly call upon the needed instrument reduces the time and potential errors associated with manual selection. 
 
-Advances in Computer Vision for Surgical Safety
+### Advances in Computer Vision for Surgical Safety
 Furthermore, vision contributes significantly to the organization of surgical instruments. By automatically identifying and cataloging each tool, computer vision aids in maintaining an orderly and efficient operating room. Research indicates that this level of organization can decrease the time spent on instrument preparation and handling by up to 30%, thereby reducing overall surgical time (Williams & Patel, 2024).
 
 In summary, the incorporation of computer vision technology in surgical environments significantly bolsters surgical safety. 
 
-### Competitor Analysis
+## Competitor Analysis
 [Couple sentences on competitors out there and what they do …]
 
 ### Logistics & Scalability
@@ -58,7 +58,22 @@ In summary, the incorporation of computer vision technology in surgical environm
 ## Software and Hardware Specifications
 
 ### Hardware Spec Prototype
+
 ### Hardware Spec Real life
+The theoretical design would consist of several mechanisms to optimize mechanical efficiency and ensure sterility. This entire mechanism would fit in a 12 cubic inch volume.
+
+**Steam Sterilizer**: 
+The Steam Sterlizer, would consist of a prefilled water deposit, or be directly connected to a supply.  This is the most common and preferred method for sterilizing surgical instruments, especially those made of stainless steel and other heat-resistant materials. It's effective against all types of microorganisms, including spores. They would be released via a high pressure and exhaust at around 134 degrees Celsius. The excess residue would be released through the chamfered vents, and cool water would be released to cool the tool. 
+
+**Camera & Piston**:
+Once the camera detects a tool the piston will be activated to make the tool to be accessible to the surgeon.
+
+**Gears**: 
+The planetary gear system with the 8:30 gear ratio for torque ensures that the servo has enough torque to push any tool while also maintaining an optimal speed of around 60 rpm (using a 200 rpm motor).
+
+**Adjustable plate**:
+The adjustable plate is a movable plate that contains all items of the device. 
+
 ### Software Spec Product
 ### Software Spec Real Life
 
