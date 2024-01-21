@@ -1,7 +1,5 @@
 # Medicarosuel  - Utra Hacks 2024 
-Shashank Ojha , ......
-
-**Portable voice-activated surgical assistant to address surgical delays, staff shortages, and infection risks, in all public hospitals and in the front line.**
+Shashank Ojha, Cameron Smith, Abdellah Ghassel, Aryan Billah, Shawn Choudhury, Zied Ghoir
 
 # Table of Contents
 - [Introduction](#introduction)
@@ -20,7 +18,7 @@ Shashank Ojha , ......
 - [Conclusion and Future Outlook](#conclusion-and-future-outlook)
 
 ## Introduction
-Medicarasouel is....
+Medicarasouel is a portable voice-activated surgical assistant to address surgical delays, staff shortages, and infection risks, in all public hospitals and in the front line.
 
 ## Problem Statement
 
@@ -97,7 +95,6 @@ After capturing the image and transferring it to a laptop server, the image is p
 MediCarousel is pioneering steps in hospital efficiency and optimization with an overall goal of providing better healthcare to the world. Our team would wish to continue this project beyond this hackathon and implement it to help improve our healthcare system with the following timeline: 
 
 
-While refining the prototype we wish to work towards finishing the incorporation [consult with abdellah]...
  
 In conclusion, MediCarousel is not just a testament to current technological capabilities but a beacon for future innovations in the surgical field. As we step forward into this new era, the integration of such advanced systems is poised to redefine the boundaries of what is possible in surgical precision and patient care.
 
