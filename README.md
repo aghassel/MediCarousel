@@ -75,6 +75,12 @@ The planetary gear system with the 8:30 gear ratio for torque ensures that the s
 The adjustable plate is a movable plate that contains all items of the device. 
 
 ### Software Spec Product
+**Voice Automation**:
+A wake word was created using picovoice through their porcupine API. After the wake word is detected, the following few seconds of audio are recorded, inputting the recording into the Whisper through the OpenAI API for transcription. This output is passed into the device to determine the rotation.
+
+**Computer Vision**:
+After capturing the image and transferring it to a the laptop server, the image is passed into the GPT-Vision API. The output is passed into Whisper for text-to-speech functionality, outputting audio instructions.
+
 ### Software Spec Real Life
 
 
