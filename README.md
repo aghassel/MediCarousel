@@ -1,5 +1,5 @@
 # MediCarousel  - Utra Hacks 2024 
-Shashank Ojha, Cameron Smith, Abdellah Ghassel, Aryan Billah, Shawn Choudhury, Zied Ghoir
+Shashank Ojha, Cameron Smith, Abdellah Ghassel, Aryan Billah, Srinjoy Choudhury, Zied Ghoir
 
 # Table of Contents
 - [Introduction](#introduction)
